@@ -3,3 +3,4 @@ python-dotenv==0.13.*
 pandas==1.0.*
 bokeh==2.0.*
 wget==3.*
+selenium==3.*
